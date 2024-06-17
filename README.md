@@ -1,7 +1,7 @@
 # Breast Cancer Classification
 
 ## Overview
-This project utilizes Python's scikit-learn library to classify breast cancer data from the Wisconsin Breast Cancer Dataset. The classification is performed using various machine learning algorithms, and their performance is evaluated using metrics like accuracy, precision, recall, F1-score, and ROC AUC score. Additionally, data visualization techniques are employed to explore the data and gain insights.
+This project utilizes Python's scikit-learn library to classify breast cancer data from the Wisconsin Breast Cancer Dataset. The classification is performed using various machine learning algorithms, and their performance is evaluated using metrics like accuracy, precision, recall, and F1-score. Additionally, data visualization techniques are employed to explore the data and gain insights.
 
 
 ## Dataset
